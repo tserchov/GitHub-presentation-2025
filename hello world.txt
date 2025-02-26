@@ -1,3 +1,5 @@
 Hi brave GitHub Users.
 
-This is a first file I committed when testing this presentation at home. Surely, it will work for you too..
+This is a first file I committed when testing my presentation at home. Surely, it will work for you too..
+
+I was edited on a little branch...
